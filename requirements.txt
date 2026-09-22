@@ -1,0 +1,3 @@
+# Este script usa apenas a biblioteca padrao do Python (sys, shutil, pathlib).
+# Nenhuma dependencia externa e necessaria no momento.
+# Arquivo mantido para futuras bibliotecas, caso o algoritmo evolua.
